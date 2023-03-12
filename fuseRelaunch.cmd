@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/ProySisDigAva/Exam1_Sorter/Sorter_Test_isim_beh.exe" -prj "C:/ProySisDigAva/Exam1_Sorter/Sorter_Test_beh.prj" "work.Sorter_Test" 
